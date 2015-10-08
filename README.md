@@ -1,2 +1,0 @@
-# Sample
-My first repository
